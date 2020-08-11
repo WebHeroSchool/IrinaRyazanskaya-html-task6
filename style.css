@@ -1,0 +1,38 @@
+.content {
+    width: 400px;
+}
+
+header {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 65px;
+    text-align: center;
+    margin: 0;
+}
+
+q {
+    font-size: 50px;
+    color: #00a2be;
+}
+
+.preview {
+    text-align: center;
+}
+
+.author {
+    font-weight: bold;
+    text-align: center;
+}
+
+.text {
+    width: 200px;
+}
+
+.blue {
+    color: #00a2be;
+}
