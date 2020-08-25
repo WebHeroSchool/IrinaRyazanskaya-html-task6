@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    font-family: Rubik;
+}
+
 .content {
     width: 400px;
 }
@@ -8,6 +15,7 @@
 }
 
 .content__header {
+    font-family: Ubuntu;
     font-weight: normal;
     font-size: 80px;
     line-height: 65px;
@@ -16,6 +24,7 @@
 }
 
 .content__quote {
+    font-family: Ubuntu;
     font-size: 50px;
     line-height: 20px;
     color: #00a2be;
