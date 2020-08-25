@@ -1,0 +1,45 @@
+.content {
+    width: 400px;
+}
+
+.header {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.content__header {
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 65px;
+    text-align: center;
+    margin: 0;
+}
+
+.content__quote {
+    font-size: 50px;
+    line-height: 20px;
+    color: #00a2be;
+}
+
+.content__preview {
+    text-align: center;
+}
+
+.content__author {
+    font-weight: bold;
+    text-align: center;
+}
+
+.content__text {
+    width: 50%;
+    padding-right: 2px;
+    vertical-align: top;
+}
+
+.content__paragraph {
+    margin: 0;
+}
+
+.content__person {
+    color: #00a2be;
+}
